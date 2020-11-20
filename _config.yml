@@ -21,7 +21,7 @@ title: Great Web Agency
 email: wojciechwichary@gmail.com
 description: "Great web agency offers high impact pages"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000/" 
+url: "https://brylocode.github.io/blog-jekyll/" 
 twitter_username: jekyllrb
 github_username:  jekyll
 
