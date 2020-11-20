@@ -1,0 +1,26 @@
+{
+      "emmet.includeLanguages":{
+    "jekyll": "html",
+    "scss": "css"
+  }
+}
+
+//   {
+//       "name": "Jekyll Tags",
+//       "scope": [
+//         "punctuation.output.jekyll",
+//         "punctuation.tag.jekyll"
+//       ],
+//       "settings": {
+//         "foreground": "#SOME_COLOR_YOU_LINK"
+//       }
+//     },
+//     {
+//       "name": "Jekyll Front Matter",
+//       "scope": [
+//         "frontmatter.jekyll"
+//       ],
+//       "settings": {
+//         "foreground": "#SOME_COLOR_YOU_LINK"
+//       }
+//     },
